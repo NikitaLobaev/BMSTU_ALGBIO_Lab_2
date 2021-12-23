@@ -1,0 +1,9 @@
+[submodule "BMSTU_NMLA_Lab_1"]
+	path = BMSTU_NMLA_Lab_1
+	url = https://github.com/NikitaLobaev/BMSTU_NMLA_Lab_1
+[submodule "BMSTU_ALGBIO_Lab_1"]
+	path = BMSTU_ALGBIO_Lab_1
+	url = https://github.com/NikitaLobaev/BMSTU_ALGBIO_Lab_1.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
